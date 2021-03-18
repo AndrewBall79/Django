@@ -4,3 +4,4 @@
 /bin
 /include
 .Python
+/src/trydjango/settings.py
